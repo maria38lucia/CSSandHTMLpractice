@@ -1,0 +1,75 @@
+h1 {
+    font-family: 'Syne', sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 3rem;
+
+}
+
+h2 {
+    font-family: 'Syne', sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 2rem;
+
+}
+
+body {
+    font-family: 'Syne', sans-serif;
+    text-align: center;
+    font-size: larger;
+    line-height: 1.5;
+    
+}
+  
+  .btn-link:hover {
+    background: #858585;
+    text-decoration: none;
+  }
+
+
+.middle-container {
+    text-align: left;
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+    
+}
+
+.profilepicture {
+    border-radius: 50%;
+}
+
+.container {
+    text-align: left;
+    padding: 4px;
+}
+
+
+table {
+    width:100%;
+}
+tbody, tr, td {
+    padding: 4px;
+}
+
+.btn {
+    margin: 3px;
+}
+
+.container {
+    text-align: left;
+    width: 90%;
+}
+
+th {
+    font-weight: 450;
+}
+
+.text-quote {
+    text-align: center;
+    padding: 0 20% 0 20%;
+}
